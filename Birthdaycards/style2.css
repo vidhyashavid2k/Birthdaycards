@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    color: lightblue;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bolder;
+}
+
+.btn{
+    padding: 5px 8px;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: lightblue;
+    font-weight: bolder;
+}
+.cta{
+    border-bottom: 4px solid whitesmoke;
+}
+
+#logo
+{
+    width: 30px;
+}
+ 
+#title
+{
+ text-shadow: 0px 0px 4px black;
+}
+.hero{
+    background-image: url("https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif");
+     background-size: cover;
+     padding: 200px 40px;
+}

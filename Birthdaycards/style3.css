@@ -1,0 +1,106 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    background : linear-gradient(rgb(127, 127, 221), pink);
+    color: aliceblue;
+    text-shadow: 0px 0px 3px black;
+}
+#bday-date{
+    background-color: palevioletred;
+    padding: 10px 2px;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+#bday-age{
+    background-color: palevioletred;
+    padding: 10px 2px;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+#header
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+#rounder
+{
+      width: 150px;
+    border-radius: 100%;
+border: 4px  solid palevioletred;
+}
+.box-image{
+    background-image: url("image/giftcover.jpg");
+    height: 400px;
+  width:400px;
+  background-size: cover;
+  border: 5px solid white;
+  border-radius: 10px;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+.box-image:hover
+{
+    background-image: url("https://media.giphy.com/media/WRL7YgP42OKns22wRD/giphy.gif");
+}
+.gift-box
+{
+    margin-top: 50px;
+}
+.box-title{
+    margin-top:0px;
+}
+.box-hover{
+    margin-bottom: 10px;
+}
+
+#react{
+    background-image: url("image/giftcover.jpg");
+    height: 400px;
+    width:400px;
+  background-size: cover;
+  border: 5px solid white;
+  border-radius: 10px;
+ margin-left: auto;
+ margin-right: auto;
+}
+#react:hover{
+    background-image: url("https://media.giphy.com/media/65AOSg4ntqDzDJHUh4/giphy.gif");
+}
+.react-img
+{
+    background-image: url("image/giftcover.jpg");
+    height: 400px;
+  width:400px;
+  background-size: cover;
+  border: 5px solid white;
+  border-radius: 10px;
+ margin-left: auto;
+ margin-right: auto;
+}
+.react-img:hover
+{
+   
+    background-image: url("https://media.giphy.com/media/AQ333qHbX5vaYSEsT1/giphy.gif");
+    background-size:cover;
+}
+    .react-img-gift
+
+{
+    background-image: url("image/giftcover.jpg");
+    height: 400px;
+  width:400px;
+  background-size: cover;
+  border: 5px solid white;
+  border-radius: 10px;
+ margin-left: auto;
+ margin-right: auto;
+}
+.react-img-gift:hover{
+    background-image:url("https://media.giphy.com/media/9AK6sJLPkdNAM9tPKN/giphy.gif");
+}
